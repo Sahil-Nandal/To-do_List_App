@@ -1,0 +1,26 @@
+#holder {
+  border: 2px solid white;
+  border-radius: 1rem;
+  margin: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: rgb(95, 95, 95);
+  background: url('https://wallpaperaccess.com/full/2285504.jpg');
+}
+
+#goals {
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+  /* background-color: rgb(95, 95, 95); */
+}
+
+#goal-form {
+  width: 30rem;
+  max-width: 90%;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: white;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
